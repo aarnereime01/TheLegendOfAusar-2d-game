@@ -1,4 +1,4 @@
-The Legend Of Ausar
+## The Legend Of Ausar
 
 Once upon a time, the Kingdom of Arathia and the Deathless coexisted in relative peace. The God-King, who had long coveted the fertile lands of Arathia, had always been hesitant to attack the kingdom, knowing that its skilled knights and soldiers would be a formidable opponent.
 
